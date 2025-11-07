@@ -4,5 +4,5 @@ My first repository
   <li>FairyTail</li>
   <li>KDrama</li>
   <li>CDrama</li>
-  <li>HorryPotter</li>
+  <li>HarryPotter</li>
 </ol>
